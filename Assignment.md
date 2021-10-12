@@ -86,3 +86,7 @@
 + A database management system helps in providing a framework to facilitate data quality initiatives. In turn, higher quality information helps in making better, faster decisions in an organization.
 
 [*more details*](https://www.ringlead.com/).
+
+### *If we want to compare DataBase Management System (DBMS) types, the table below will help us;*
+
+![DBMS](https://content.altexsoft.com/media/2019/06/word-image-18.png)
