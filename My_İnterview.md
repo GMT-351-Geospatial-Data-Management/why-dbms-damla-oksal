@@ -1,4 +1,4 @@
-## *Question1*
+## *Question1* 
 ### 1) What kind of data do you store? Where do you keep these? Are you using a database management system? What do you use?
 
 -	We usually store raster, elevation, vector data and 3D object data.
